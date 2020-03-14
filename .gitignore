@@ -24,3 +24,8 @@ tmp
 _yardoc
 doc/
 .vscode/settings.json
+
+
+# System
+
+.DS_Store
